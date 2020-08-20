@@ -4,8 +4,6 @@
 ### My first showcase of a fullpage loading screen using an animated GIF.
 ### Bonus: Created a button on the landing page that inserts and removes a description.
 
-<br />
-
 ## Built With:
 - ### HTML
 - ### CSS
