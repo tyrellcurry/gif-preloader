@@ -15,7 +15,7 @@
 - ### JavaScript adding / removing classes within HTML on click.
 - ### JavaScript EventListener (page load).
 
-## [Check Out The Project!](https://tyrellcurry.github.io/gif-preloader/)
+## [Check Out The Project!](https://tyrellcurry.github.io/gifPagePreloader/)
 
 <br />
 
